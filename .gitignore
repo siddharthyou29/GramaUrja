@@ -1,0 +1,32 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/workspace.xml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navigation/
+.idea/assetWizardSettings.xml
+.idea/runConfigurations.xml
+*.iml
+
+# Log files
+*.log
+
+# Keystores and private signing keys
+*.jks
+*.keystore
+
+# Built artifacts
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
